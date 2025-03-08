@@ -1,4 +1,4 @@
-Project Definition: 
+AUTOMATED STRESS ASSESSMENT: 
 
 This project aims at utilizing predictive techniques in machine learning to determine stress levels. The main focus is on developing a model that can accurately predict stress levels based on various input factors. By leveraging advanced machine learning algorithms, we aim to provide a reliable and efficient tool for assessing and managing stress in individuals.
 The proposed work aims contribute to the field of mental health and well-being by offering a data-driven approach to understanding and addressing stress. The application is built using several technologies, a modern, fast web framework for building APIs creating interactive data science applications.
