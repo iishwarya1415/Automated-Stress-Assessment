@@ -11,4 +11,4 @@ Data visualization techniques and statistical analyses can help identify trends 
 
 Proposed Work Architecture:
 
-<img width="496" alt="Architecture" src="https://github.com/user-attachments/assets/11697c56-2bc2-4e74-9dd9-63d8ab1fb0ec" />
+                   <img width="496" alt="Architecture" src="https://github.com/user-attachments/assets/11697c56-2bc2-4e74-9dd9-63d8ab1fb0ec" />
