@@ -8,3 +8,6 @@ Need for Proposed Work:
 Stress level analysis using supervised learning is a proposed system that aims to predict and analyse an individual's stress levels based on various input features. Supervised learning refers to a machine learning approach where a model is trained on labeled data to make predictions or classifications. The predicted stress levels can be further analyzed to gain insights into patterns, triggers, or factors contributing to stress to achieve stress analysis and insights.
 
 Data visualization techniques and statistical analyses can help identify trends or correlations between features and stress levels. Data is collected and analyzed, and the system can provide personalized feedback and recommendations to individuals based on their stress levels. This feedback can include stress management strategies, relaxation techniques, or lifestyle adjustments to help reduce stress and improve well-being.
+
+Proposed Work Architecture:
+
