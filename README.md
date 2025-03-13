@@ -1,13 +1,36 @@
-AUTOMATED STRESS ASSESSMENT: 
+# Automated Stress Assessment
 
-This project aims at utilizing predictive techniques in machine learning to determine stress levels. The main focus is on developing a model that can accurately predict stress levels based on various input factors. By leveraging advanced machine learning algorithms, we aim to provide a reliable and efficient tool for assessing and managing stress in individuals.
-The proposed work aims contribute to the field of mental health and well-being by offering a data-driven approach to understanding and addressing stress. The application is built using several technologies, a modern, fast web framework for building APIs creating interactive data science applications.
+This project utilizes **predictive machine learning techniques** to determine **stress levels** based on various input factors. The main objective is to develop an **accurate, data-driven model** to assess and manage stress efficiently. By leveraging **advanced machine learning algorithms**, this project aims to contribute to the field of **mental health and well-being**, offering a **reliable and scalable tool** for stress analysis.
 
-Need for Proposed Work: 
+---
 
-Stress level analysis using supervised learning is a proposed system that aims to predict and analyse an individual's stress levels based on various input features. Supervised learning refers to a machine learning approach where a model is trained on labeled data to make predictions or classifications. The predicted stress levels can be further analyzed to gain insights into patterns, triggers, or factors contributing to stress to achieve stress analysis and insights.
+## Need for the Proposed Work
 
-Data visualization techniques and statistical analyses can help identify trends or correlations between features and stress levels. Data is collected and analyzed, and the system can provide personalized feedback and recommendations to individuals based on their stress levels. This feedback can include stress management strategies, relaxation techniques, or lifestyle adjustments to help reduce stress and improve well-being.
+The **Automated Stress Assessment System** is designed to **predict and analyze stress levels** using **supervised learning** techniques. 
+
+### Key Objectives:
+- Develop a **machine learning model** that accurately predicts stress levels.
+- Identify **patterns, triggers, and factors** contributing to stress.
+- Implement **data visualization and statistical analysis** to understand stress trends.
+- Provide **personalized feedback and recommendations** for stress management.
+
+By collecting and analyzing user data, the system provides actionable **insights** and **recommendations**, including:
+- **Stress management strategies**
+- **Lifestyle adjustments**
+- **Relaxation techniques**
+- **Exercise and mindfulness tips**
+
+---
+
+## Tech Stack
+
+- **Programming Language**: Python 
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
+- **Data Handling**: Pandas, NumPy
+- **Visualization**: Matplotlib, Seaborn
+- **Web Framework**: Django / FastAPI / Flask
+- **Database**: PostgreSQL, MongoDB (for storing user insights)
+
 
 Proposed Work Architecture:
 
